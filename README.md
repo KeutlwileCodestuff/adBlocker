@@ -2,13 +2,13 @@
 
   1.clone the repo to your local machine .
   
-  2.Open _about:debugging_ on firefox.
+  2.Open **_about:debugging_** on firefox.
   
-  3.Click _this firefox_.
+  3.Click **_this firefox_**.
   
-  4.Click on _Load Temporary add-on_.
+  4.Click on **_Load Temporary add-on_**.
   
-  5.navigate to the repo and open the _manifest_ json file. 
+  5.navigate to the repo and open the **_manifest_** json file. 
 
 now the extention is up and running and can block unwanted ads on websites , for now this extension does not 
 block _youtube_ ads.
